@@ -1,6 +1,7 @@
-DataScience Class Exercise
+Data Science Class Exercise
 
 this is an analysis of user data in the dataset "ecommerce_purchase.csv".
+
 we are going to check the following:
 
 1. import the pandas library & Read in the e-commerce purchases data which is in a csv format.
@@ -16,7 +17,4 @@ we are going to check the following:
 11. How many people have American Express as their Credit Card Provider and made a purchase above $95 
 12. How many people have a credit card that expires in 2025
 13. the top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...).
-
-
-?
 
